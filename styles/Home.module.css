@@ -1,0 +1,33 @@
+.title_container {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 25px;
+}
+
+.title span {
+  color: red;
+  margin-bottom: 15px;
+}
+
+
+.pokemon_container {
+
+  margin-top: 15px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  max-width: center;
+  max-width: 1100px;
+  margin:  0 auto;
+}
+
+.pokemon_container li {
+
+  list-style: none;
+  margin-left: 50px;
+  
+ 
+}

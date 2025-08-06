@@ -1,0 +1,171 @@
+.pokemon_container {
+
+    text-align: center;
+}
+
+
+.title {
+
+    font-size: 25px;
+    text-transform: capitalize;
+    background-color: #333;
+    color: white;
+    padding: 15px;
+    margin:  10px auto;
+    min-width: 200px;
+    max-width: 300px;
+}
+
+.pokemon_container h3 {
+
+    font-size: 20px;
+}
+
+.data_container {
+margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.type{
+
+    margin-top: -10px;
+}
+
+.data_container div {
+
+    margin: 10px;
+    padding: 0 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.types_container {
+  display: flex;
+    margin-top: 15px;
+    justify-content: center;
+    align-items: center;
+  
+    gap: 30px;
+
+    
+    
+}
+
+.types_container .type {
+
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.title_type {
+
+  margin-top: 10px;
+  margin-bottom: 30px;
+  
+}
+
+
+.type_eletric {
+  background-color: #fc3;
+}
+
+.type_grass {
+  background-color: #7c5;
+}
+
+.type_poison {
+  background-color: #a59;
+}
+
+.type_fire {
+  background-color: #f42;
+}
+
+.type_flying {
+  background-color: #89f;
+}
+
+.type_water {
+  background-color: #39f;
+}
+
+.type_ice {
+  background-color: #6cf;
+}
+
+.type_fighting {
+  background-color: #b54;
+}
+
+.type_ground {
+  background-color: #db5;
+}
+
+.type_psychic {
+  background-color: #f59;
+}
+
+.type_bug {
+  background-color: #ab2;
+}
+
+.type_rock {
+  background-color: #ba6;
+}
+
+.type_ghost {
+  background-color: #66b;
+}
+
+.type_dragon {
+  background-color: #76e;
+}
+
+.type_dark {
+  background-color: #754;
+}
+
+.type_steel {
+  background-color: #aab;
+}
+
+.type_fairy {
+  background-color: #e9e;
+}
+
+
+
+
+
+
+.data_container .data_height {
+    width: 95px;
+    border-right: 1px solid black;
+    margin-left: -5px;
+}
+
+.data_weight {
+
+    margin-left: 0;
+}
+
+
+.data_height h3 span {
+
+font-weight: 200;
+
+}
+
+.data_weight h3 span {
+
+font-weight: 200;
+
+}
